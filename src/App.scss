@@ -1,0 +1,15 @@
+.App {
+	text-align: center;
+	color: #fff;
+	background-color: #000;
+	height: 100vh;
+	.emoji {
+		font-size: 5rem;
+		margin: 15px;
+	}
+	.img-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
